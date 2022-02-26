@@ -20,16 +20,14 @@
 ### Screenshot
 
 #### Mobile
-![](assets/design/my-result-mobile1.png)
-
-![](assets/design/my-result-mobile2.png)
+![](assets/design/my-result-mobile.png)
 
 #### Desktop
 ![](assets/design/my-result-desktop.png)
 
 ### Demo
 
-<a href="">See the demo here</a>
+<a href="https://ulipese.github.io/advice-generator-app/">See the demo here</a>
 
 ## My process
 
