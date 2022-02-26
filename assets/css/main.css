@@ -29,14 +29,14 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
 }
 .section-card {
   width: 20em;
   height: fit-content;
   background-color: var(--dark-grayish-blue);
   padding: 1em;
-  margin-top: 9em;
+  margin-top: -4em;
   border-radius: 0.5em;
   position: relative;
 
@@ -90,6 +90,8 @@ body {
   width: fit-content;
   text-align: center;
   padding: 0.5em 1em 1em 1em;
+  position: absolute;
+  bottom: .5em;
   color: #dfdfdf;
 }
 .footer__link {
