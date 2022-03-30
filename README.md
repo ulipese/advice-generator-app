@@ -49,7 +49,7 @@ I learned more about BEM architecture and the use of fetch api.
 
 ## Author
 
-- Linkedin - [Felipe Sousa](https://www.linkedin.com/in/felipe-sousa-0311491b3/)
+- Linkedin - [Felipe Sousa](https://www.linkedin.com/in/ulipese)
 - Github - [Felipe Sousa](https://www.github.com/ulipese)
 - Frontend Mentor - [@ulipese](https://www.frontendmentor.io/profile/ulipese)
 - Twitter - [@ulipese](https://www.twitter.com/ulipese)
